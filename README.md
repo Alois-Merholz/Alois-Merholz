@@ -2,10 +2,14 @@
 
 Après une expérience polyvalente en gestion de systèmes numériques et opérations en PME, je me spécialise aujourd'hui dans **l'administration réseau, l'automatisation IT et l'intégration de systèmes connectés** (préparation aux certifications **Cisco CCNA** et **Cisco DevNet Associate**).
 
+
+
 ## Centres d'intérêt techniques
 - **Domotique & Smart Home :** Intégration de systèmes connectés et automatisation (Node-RED, écosystèmes Crestron, Lutron, Control4).
 - **Audio & diffusion sonore :** Intérêt pour les architectures audio et les réseaux dédiés.
 - **Réseaux & systèmes :** Architecture d'infrastructures, routage/commutation, sécurisation des flux, automatisation des configurations (découverte de *Linux*, *Terraform*, *Ansible*) et virtualisation (*VMWareFusion*, *Linux Ubuntu/Debian*, *Windows Server*).
+
+
 
 ## Technologies & Outils explorés
 
@@ -16,10 +20,13 @@ Après une expérience polyvalente en gestion de systèmes numériques et opéra
 ![Python](https://img.shields.io/badge/Python-Bases-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-Smart_Home-8F0000?style=flat-square&logo=nodered&logoColor=white)
 
+
 > [!NOTE]
 > **Statut du profil :** Ce GitHub est **en cours d'enrichissement progressif** au fil de ma montée en compétences.
 
 Ce profil regroupe mes laboratoires pratiques réalisés sous **Cisco Packet Tracer** ainsi que mes projets d'automatisation.
+
+
 
 ## Compétences mises en pratique dans mes labos
 - **Commutation & Réseau local :** VLANs, routage inter-VLAN (*Router-on-a-Stick*), EtherChannel (LACP/PAgP), STP/RSTP.
@@ -27,8 +34,12 @@ Ce profil regroupe mes laboratoires pratiques réalisés sous **Cisco Packet Tra
 - **Sécurité & Administration :** ACL standards et étendues, sécurité des ports (*Port Security*), SSH, diagnostic et *troubleshooting*.
 - **Automatisation & Intégration :** Notions SDN, API REST (JSON), bases de Python avec Ansible, et environnement Smart Home / Node-RED.
 
+
+
 ## À propos des dépôts
 Chaque laboratoire inclut la topologie réseau, le plan d'adressage, les étapes de configuration et les tests de validation.
+
+
 
 ## Contact
 - **Email :** alois.merholz@gmail.com

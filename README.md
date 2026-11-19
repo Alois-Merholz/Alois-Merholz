@@ -1,4 +1,4 @@
-# Bonjour, je suis Aloïs Merholz
+# Bonjour,  je suis Aloïs Merholz
 
 Après une expérience polyvalente en gestion de systèmes numériques et opérations en PME, je me spécialise aujourd'hui dans **l'administration réseau, l'automatisation IT et l'intégration de systèmes connectés** (préparation aux certifications **Cisco CCNA** et **Cisco DevNet Associate**).
 
@@ -16,8 +16,7 @@ Après une expérience polyvalente en gestion de systèmes numériques et opéra
 ![Python](https://img.shields.io/badge/Python-Bases-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-Smart_Home-8F0000?style=flat-square&logo=nodered&logoColor=white)
 
-[!NOTE]
-> **Statut du profil :** Ce GitHub est **en cours d'enrichissement progressif** au fil de ma montée en compétences.
+[!NOTE]**Statut du profil :** Ce GitHub est **en cours d'enrichissement progressif** au fil de ma montée en compétences.
 
 
 Ce profil regroupe mes laboratoires pratiques réalisés sous **Cisco Packet Tracer** ainsi que mes projets d'automatisation.
